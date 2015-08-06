@@ -1,0 +1,7 @@
+#RMS SDK Includes
+/src/inc/rms-sdk/*
+!/src/inc/rms-sdk/readme.txt
+
+#RMS SDK Modules
+/src/mod/rms-sdk/*
+!/src/mod/rms-sdk/readme.txt
