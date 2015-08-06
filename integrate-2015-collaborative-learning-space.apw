@@ -252,6 +252,42 @@
 <FilePathName>src\inc\rms-sdk\RmsSystemEventHandler.axi</FilePathName>
 <Comments></Comments>
 </File>
+<File CompileType="Netlinx" Type="DUET"><Identifier>commons-codec-1.4-AMX-01</Identifier>
+<FilePathName>src\mod\rms-sdk\commons-codec-1.4-AMX-01.jar</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="DUET"><Identifier>commons-httpclient-3.1-AMX-01</Identifier>
+<FilePathName>src\mod\rms-sdk\commons-httpclient-3.1-AMX-01.jar</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="DUET"><Identifier>commons-lang-2.5-AMX-01</Identifier>
+<FilePathName>src\mod\rms-sdk\commons-lang-2.5-AMX-01.jar</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="DUET"><Identifier>commons-logging-1.1.1-AMX-01</Identifier>
+<FilePathName>src\mod\rms-sdk\commons-logging-1.1.1-AMX-01.jar</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="DUET"><Identifier>rmsclient-osgi</Identifier>
+<FilePathName>src\mod\rms-sdk\rmsclient-osgi.jar</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="DUET"><Identifier>rmsclient</Identifier>
+<FilePathName>src\mod\rms-sdk\rmsclient.jar</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="DUET"><Identifier>RmsClientGui_dr4_0_0</Identifier>
+<FilePathName>src\mod\rms-sdk\RmsClientGui_dr4_0_0.jar</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="DUET"><Identifier>RmsNetLinxAdapter_dr4_0_0</Identifier>
+<FilePathName>src\mod\rms-sdk\RmsNetLinxAdapter_dr4_0_0.jar</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="DUET"><Identifier>rmsnlplatform</Identifier>
+<FilePathName>src\mod\rms-sdk\rmsnlplatform.jar</FilePathName>
+<Comments></Comments>
+</File>
 <File CompileType="Netlinx" Type="TP5"><Identifier>integrate-2015-colab-lecturn-20inch-portrait</Identifier>
 <FilePathName>ui\tp\integrate-2015-colab-lecturn-20inch-portrait.TP5</FilePathName>
 <Comments></Comments>
