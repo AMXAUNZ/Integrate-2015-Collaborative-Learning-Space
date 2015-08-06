@@ -128,7 +128,7 @@
 <TransTCPIPEx>192.168.0.38|1319|1| ||</TransTCPIPEx>
 <TransSerialEx>COM1|38400|8|None|1|None||</TransSerialEx>
 <TransUSBEx>|||||</TransUSBEx>
-<TransVNMEx>192.168.0.1|1|&lt;Default&gt;</TransVNMEx>
+<TransVNMEx>10.0.0.1|1|&lt;Default&gt;</TransVNMEx>
 <VirtualNetLinxMasterFlag>false</VirtualNetLinxMasterFlag>
 <VNMSystemID>1</VNMSystemID>
 <VNMIPAddress>10.0.0.1</VNMIPAddress>
@@ -136,6 +136,10 @@
 <UserName></UserName>
 <Password></Password>
 <Comments></Comments>
+<File CompileType="Netlinx" Type="MasterSrc"><Identifier>integrate-2015-collaborative-learning-space</Identifier>
+<FilePathName>integrate-2015-collaborative-learning-space.axs</FilePathName>
+<Comments></Comments>
+</File>
 </System>
 </Project>
 </Workspace>
