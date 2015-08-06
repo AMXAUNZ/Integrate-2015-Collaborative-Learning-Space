@@ -208,6 +208,10 @@
 <FilePathName>src\inc\lib\common-library\common.axi</FilePathName>
 <Comments></Comments>
 </File>
+<File CompileType="Netlinx" Type="TP5"><Identifier>integrate-2015-colab-lecturn-20inch-portrait</Identifier>
+<FilePathName>ui\tp\integrate-2015-colab-lecturn-20inch-portrait.TP5</FilePathName>
+<Comments></Comments>
+</File>
 </System>
 </Project>
 </Workspace>
