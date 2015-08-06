@@ -284,6 +284,10 @@
 <FilePathName>src\mod\rms-sdk\RmsControlSystemMonitor.axs</FilePathName>
 <Comments></Comments>
 </File>
+<File CompileType="Netlinx" Type="Module"><Identifier>RmsDuetVideoProjectorMonitor</Identifier>
+<FilePathName>src\mod\rms-sdk\RmsDuetVideoProjectorMonitor.axs</FilePathName>
+<Comments></Comments>
+</File>
 <File CompileType="Netlinx" Type="Module"><Identifier>RmsDvxSwitcherMonitor</Identifier>
 <FilePathName>src\mod\rms-sdk\RmsDvxSwitcherMonitor.axs</FilePathName>
 <Comments></Comments>
