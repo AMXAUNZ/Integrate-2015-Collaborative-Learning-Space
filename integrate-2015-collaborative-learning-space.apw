@@ -136,10 +136,6 @@
 <UserName></UserName>
 <Password></Password>
 <Comments></Comments>
-<File CompileType="Netlinx" Type="MasterSrc"><Identifier>integrate-2015-collaborative-learning-space</Identifier>
-<FilePathName>integrate-2015-collaborative-learning-space.axs</FilePathName>
-<Comments></Comments>
-</File>
 <File CompileType="Netlinx" Type="Include"><Identifier>amx-controlports-api</Identifier>
 <FilePathName>src\inc\lib\amx-device-library\amx-controlports-api.axi</FilePathName>
 <Comments></Comments>
@@ -250,6 +246,10 @@
 </File>
 <File CompileType="Netlinx" Type="Include"><Identifier>RmsSystemEventHandler</Identifier>
 <FilePathName>src\inc\rms-sdk\RmsSystemEventHandler.axi</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="MasterSrc"><Identifier>integrate-2015-collaborative-learning-space</Identifier>
+<FilePathName>src\integrate-2015-collaborative-learning-space.axs</FilePathName>
 <Comments></Comments>
 </File>
 <File CompileType="Netlinx" Type="DUET"><Identifier>commons-codec-1.4-AMX-01</Identifier>
