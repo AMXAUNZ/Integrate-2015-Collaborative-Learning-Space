@@ -25,3 +25,6 @@ INCLUDE 'amx-encoder-listener'
 // AMX Enzo Library
 //INCLUDE 'amx-enzo-listener'
 #WARN 'Enzo Listener Include commented out until bug can be resolved'
+
+// AMX Modero Library
+INCLUDE 'amx-modero-listener'

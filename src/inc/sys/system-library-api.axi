@@ -25,3 +25,6 @@ INCLUDE 'amx-encoder-api'
 
 // AMX Enzo Library
 INCLUDE 'amx-enzo-api'
+
+// AMX Modero Library
+INCLUDE 'amx-modero-api'

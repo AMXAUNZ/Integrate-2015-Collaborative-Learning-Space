@@ -34,3 +34,15 @@ dev dvEncoderMainPorts[] = { dvEncoderMain }
 
 dev dvEncoderUsbPorts[] = { dvEncoderUsbFront,
                             dvEncoderUsbBack }
+
+// Keep track of the DVX
+_DvxSwitcher dvxSwitcher
+
+// Keep track of selected inputs and outputs on lecturn panel
+volatile integer selectedInputLecturn = DVX_PORT_VID_IN_NONE
+
+// Keep track of whether the system is in use or not
+volatile integer systemInUseStatusLecturn = FALSE
+
+// Keep track of whether the system is off or on
+volatile integer systemOnStatusLecturn = FALSE
