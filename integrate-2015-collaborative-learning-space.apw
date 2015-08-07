@@ -248,6 +248,50 @@
 <FilePathName>src\inc\rms-sdk\RmsSystemEventHandler.axi</FilePathName>
 <Comments></Comments>
 </File>
+<File CompileType="Netlinx" Type="Include"><Identifier>system-constants</Identifier>
+<FilePathName>src\inc\sys\system-constants.axi</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="Include"><Identifier>system-devices</Identifier>
+<FilePathName>src\inc\sys\system-devices.axi</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="Include"><Identifier>system-events</Identifier>
+<FilePathName>src\inc\sys\system-events.axi</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="Include"><Identifier>system-functions</Identifier>
+<FilePathName>src\inc\sys\system-functions.axi</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="Include"><Identifier>system-includes</Identifier>
+<FilePathName>src\inc\sys\system-includes.axi</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="Include"><Identifier>system-mainline</Identifier>
+<FilePathName>src\inc\sys\system-mainline.axi</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="Include"><Identifier>system-modules</Identifier>
+<FilePathName>src\inc\sys\system-modules.axi</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="Include"><Identifier>system-mutual-exclusions</Identifier>
+<FilePathName>src\inc\sys\system-mutual-exclusions.axi</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="Include"><Identifier>system-start</Identifier>
+<FilePathName>src\inc\sys\system-start.axi</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="Include"><Identifier>system-structures</Identifier>
+<FilePathName>src\inc\sys\system-structures.axi</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="Include"><Identifier>system-variables</Identifier>
+<FilePathName>src\inc\sys\system-variables.axi</FilePathName>
+<Comments></Comments>
+</File>
 <File CompileType="Netlinx" Type="MasterSrc"><Identifier>integrate-2015-collaborative-learning-space</Identifier>
 <FilePathName>src\integrate-2015-collaborative-learning-space.axs</FilePathName>
 <Comments></Comments>
@@ -318,50 +362,6 @@
 </File>
 <File CompileType="Netlinx" Type="Module"><Identifier>RmsVirtualDeviceMonitor</Identifier>
 <FilePathName>src\mod\rms-sdk\RmsVirtualDeviceMonitor.axs</FilePathName>
-<Comments></Comments>
-</File>
-<File CompileType="Netlinx" Type="Include"><Identifier>system-constants</Identifier>
-<FilePathName>src\system-constants.axi</FilePathName>
-<Comments></Comments>
-</File>
-<File CompileType="Netlinx" Type="Include"><Identifier>system-devices</Identifier>
-<FilePathName>src\system-devices.axi</FilePathName>
-<Comments></Comments>
-</File>
-<File CompileType="Netlinx" Type="Include"><Identifier>system-events</Identifier>
-<FilePathName>src\system-events.axi</FilePathName>
-<Comments></Comments>
-</File>
-<File CompileType="Netlinx" Type="Include"><Identifier>system-functions</Identifier>
-<FilePathName>src\system-functions.axi</FilePathName>
-<Comments></Comments>
-</File>
-<File CompileType="Netlinx" Type="Include"><Identifier>system-includes</Identifier>
-<FilePathName>src\system-includes.axi</FilePathName>
-<Comments></Comments>
-</File>
-<File CompileType="Netlinx" Type="Include"><Identifier>system-mainline</Identifier>
-<FilePathName>src\system-mainline.axi</FilePathName>
-<Comments></Comments>
-</File>
-<File CompileType="Netlinx" Type="Include"><Identifier>system-modules</Identifier>
-<FilePathName>src\system-modules.axi</FilePathName>
-<Comments></Comments>
-</File>
-<File CompileType="Netlinx" Type="Include"><Identifier>system-mutual-exclusions</Identifier>
-<FilePathName>src\system-mutual-exclusions.axi</FilePathName>
-<Comments></Comments>
-</File>
-<File CompileType="Netlinx" Type="Include"><Identifier>system-start</Identifier>
-<FilePathName>src\system-start.axi</FilePathName>
-<Comments></Comments>
-</File>
-<File CompileType="Netlinx" Type="Include"><Identifier>system-structures</Identifier>
-<FilePathName>src\system-structures.axi</FilePathName>
-<Comments></Comments>
-</File>
-<File CompileType="Netlinx" Type="Include"><Identifier>system-variables</Identifier>
-<FilePathName>src\system-variables.axi</FilePathName>
 <Comments></Comments>
 </File>
 <File CompileType="Netlinx" Type="TP5"><Identifier>integrate-2015-colab-lecturn-20inch-portrait</Identifier>
