@@ -272,6 +272,18 @@
 <FilePathName>src\inc\sys\system-includes.axi</FilePathName>
 <Comments></Comments>
 </File>
+<File CompileType="Netlinx" Type="Include"><Identifier>system-library-api</Identifier>
+<FilePathName>src\inc\sys\system-library-api.axi</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="Include"><Identifier>system-library-control</Identifier>
+<FilePathName>src\inc\sys\system-library-control.axi</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="Include"><Identifier>system-library-listener</Identifier>
+<FilePathName>src\inc\sys\system-library-listener.axi</FilePathName>
+<Comments></Comments>
+</File>
 <File CompileType="Netlinx" Type="Include"><Identifier>system-mainline</Identifier>
 <FilePathName>src\inc\sys\system-mainline.axi</FilePathName>
 <Comments></Comments>
