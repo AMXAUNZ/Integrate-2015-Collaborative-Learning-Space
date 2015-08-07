@@ -200,6 +200,18 @@
 <FilePathName>src\inc\lib\amx-enzo-library\amx-enzo-listener.axi</FilePathName>
 <Comments></Comments>
 </File>
+<File CompileType="Netlinx" Type="Include"><Identifier>amx-modero-api</Identifier>
+<FilePathName>src\inc\lib\amx-modero-library\amx-modero-api.axi</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="Include"><Identifier>amx-modero-control</Identifier>
+<FilePathName>src\inc\lib\amx-modero-library\amx-modero-control.axi</FilePathName>
+<Comments></Comments>
+</File>
+<File CompileType="Netlinx" Type="Include"><Identifier>amx-modero-listener</Identifier>
+<FilePathName>src\inc\lib\amx-modero-library\amx-modero-listener.axi</FilePathName>
+<Comments></Comments>
+</File>
 <File CompileType="Netlinx" Type="Include"><Identifier>common</Identifier>
 <FilePathName>src\inc\lib\common-library\common.axi</FilePathName>
 <Comments></Comments>

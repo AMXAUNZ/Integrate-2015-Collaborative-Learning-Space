@@ -24,3 +24,6 @@ INCLUDE 'amx-encoder-control'
 
 // AMX Enzo Library
 INCLUDE 'amx-enzo-control'
+
+// AMX Modero Library
+INCLUDE 'amx-modero-control'
