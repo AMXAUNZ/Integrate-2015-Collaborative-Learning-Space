@@ -252,6 +252,10 @@
 <FilePathName>src\inc\sys\system-constants.axi</FilePathName>
 <Comments></Comments>
 </File>
+<File CompileType="Netlinx" Type="Include"><Identifier>system-defines</Identifier>
+<FilePathName>src\inc\sys\system-defines.axi</FilePathName>
+<Comments></Comments>
+</File>
 <File CompileType="Netlinx" Type="Include"><Identifier>system-devices</Identifier>
 <FilePathName>src\inc\sys\system-devices.axi</FilePathName>
 <Comments></Comments>
