@@ -5,3 +5,8 @@
 #RMS SDK Modules
 /src/mod/rms-sdk/*
 !/src/mod/rms-sdk/readme.txt
+
+# Main program compiled (.tkn), object (.tko), and compressed source (.src) files
+/src/integrate-2015-collaborative-learning-space.tkn
+/src/integrate-2015-collaborative-learning-space.tko
+/src/integrate-2015-collaborative-learning-space.src
