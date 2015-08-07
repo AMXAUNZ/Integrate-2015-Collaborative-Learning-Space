@@ -11,3 +11,5 @@ NOTE: Constants cannot be passed to modules.
 **/
 
 DEFINE_MODULE
+
+'RmsNetLinxAdapter_dr4_0_0' rms(vdvRms)
